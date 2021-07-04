@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_songs"
+        android:icon="@drawable/ic_baseline_queue_music_24"
+        android:title="@string/title_songs" />
+
+    <item
+        android:id="@+id/nav_composition"
+        android:icon="@drawable/ic_baseline_emoji_people_24"
+        android:title="@string/title_composition" />
+
+    <item
+        android:id="@+id/nav_report"
+        android:icon="@drawable/ic_baseline_location_city_24"
+        android:title="@string/title_report" />
+
+</menu>

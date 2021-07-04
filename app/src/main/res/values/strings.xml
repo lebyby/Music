@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="title_activity_info_group">MainActivity</string>
+    <string name="title_songs">Песни</string>
+    <string name="title_composition">Состав группы</string>
+    <string name="title_report">Концерты</string>
+    <string name="enter_name">Введите название группы</string>
+    <string name="enter_years">Введите год образования группы</string>
+    <string name="enter_place">Введите место в хит параде</string>
+    <string name="enter_count">Введите количество людей, посетивших концерт</string>
+    <string name="enter_city">Введите название города</string>
+    <string name="enter_length">Введите продолжительность песни</string>
+    <string name="enter_song">Введите название песни</string>
+    <string name="enter_surname">Введите фамилию музыканта</string>
+    <string name="enter_forename">Введите имя музыканта</string>
+    <string name="enter_role">Введите амплуа музыканта</string>
+</resources>
